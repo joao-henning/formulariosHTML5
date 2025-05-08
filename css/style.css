@@ -38,7 +38,7 @@ main{
     border: 2px solid var(--text-color);
     border-radius: 20px;
     padding: 2rem;
-    width: 60%;
+    width: 640%;
 }
 
 form{
@@ -46,7 +46,7 @@ form{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 60%;
+    width: 40%;
 }
 
 input{
